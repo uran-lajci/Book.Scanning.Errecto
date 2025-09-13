@@ -171,7 +171,7 @@ def find_matching_files(instances_dir, solutions_dir):
 
 def main():
     instances_dir = 'instances'
-    solutions_dir = 'output/two_phase_approach_1010_seed'
+    solutions_dir = 'output/two_phase_approach_no_seed'
     verbose = False
 
     instances_dir = Path(instances_dir)
